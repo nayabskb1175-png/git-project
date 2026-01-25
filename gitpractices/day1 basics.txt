@@ -1,0 +1,2 @@
+git clone -to clone the repo from GitHub and this is one time operation 
+git status -uses to check the sttaus of repo
