@@ -1,2 +1,19 @@
 git clone -to clone the repo from GitHub and this is one time operation 
 git status -uses to check the sttaus of repo
+
+
+
+-rw  	-r--  	 r--
+
+ users	group	others
+
+  6   4     4   
+
+  7   6     7
+
+chmod 767 filename
+rwx   rw-   rwx  		
+
+read r= 4
+write w = 2
+execute x = 1
